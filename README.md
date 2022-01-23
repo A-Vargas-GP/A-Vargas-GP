@@ -7,4 +7,4 @@ My name is Amy, and I am currently a junior at TCNJ.
 - 💬 Ask me about anything related to 3D animation or games!
 - 📫 How to reach me: avarg610@gmail.com OR on LinkedIn!
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I grow vegetables in my spare time!
+- ⚡ Fun fact: I enjoy gardening, and I am planning on growing vegetables once it gets warmer!
