@@ -3,7 +3,8 @@ Hi there!
 My name is Amy, and I am currently a junior at TCNJ.
 
 - 🔭 I’m currently working on some personal projects involving video editing, 3D animation, and coding!
-- 🌱 My major is Interactive Multimedia, and I am minoring in CS and Music Technology.
+- 🌱 I am currently coding projects in C# and PostgreSQL!
+- 📚 My major is Interactive Multimedia, and I am minoring in CS and Music Technology.
 - 💬 Ask me about anything related to 3D animation or games!
 - 📫 How to reach me: avarg610@gmail.com OR on LinkedIn!
 - 😄 Pronouns: she/her
