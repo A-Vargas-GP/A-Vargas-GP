@@ -8,4 +8,4 @@ My name is Amy, and I am currently a junior at TCNJ.
 - 📫 How to reach me: avarg610@gmail.com OR on LinkedIn!
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I enjoy gardening, and I am currently growing lettuce, radishes, watermelon, scallions, grapes, and more!
-- Relevant Links: https://a-varg.itch.io
+- 🔗 Relevant Links: https://a-varg.itch.io
