@@ -2,7 +2,7 @@ Hi there!
 
 My name is Amy, and I am currently a junior at TCNJ.
 
-- 🔭 I’m currently working on some personal projects involving video editing, 3D animation, and coding!
+- 🔭 I’m working on some personal projects involving video editing, 3D animation, and coding!
 
 -  🌱 I am currently coding projects in C#!
 - 🔍 I am hoping to learn Kotlin soon using Android Studio!
