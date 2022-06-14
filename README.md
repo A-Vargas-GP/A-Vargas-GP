@@ -1,6 +1,6 @@
 Hi there!
 
-My name is Amy, and I am currently a junior at TCNJ.
+My name is Amy, and I am currently a senior at TCNJ.
 
 - 🔭 I’m working on some personal projects involving video editing, 3D animation, and coding!
 
