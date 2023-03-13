@@ -11,7 +11,7 @@ My name is Amy, and I am currently a senior at TCNJ.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I enjoy gardening, and I am planning on restarting my garden soon!
 - 🔗 Relevant Links:
-  - [Personal Website](https://a-vargas-gp.github.io/)
+  - [Personal Website](https://vargasa9.myportfolio.com/home)
   - [Itch.io Profile](https://a-varg.itch.io)
   - [Artstation](https://www.artstation.com/vargas-amy_gp)
   - [LinkedIn](https://www.linkedin.com/in/vargas-amy)
