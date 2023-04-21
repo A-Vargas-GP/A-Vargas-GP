@@ -2,7 +2,7 @@ Hi there!
 
 My name is Amy, and I am currently a senior at TCNJ.
 
-- 🔭 I’m working on some personal projects involving 3D animation and coding!
+- 🔭 I’m working on some personal projects involving 3D environmental and character modeling along with coding!
 - 🌱 I am currently coding projects in C# and Kotlin!
 - 🔍 I am hoping to learn more about Kotlin using Android Studio!
 - 📚 My major is Interactive Multimedia, and I am minoring in CS and Music Technology.
