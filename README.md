@@ -2,7 +2,7 @@ Hi there!
 
 My name is Amy, and I am a graduate of TCNJ.
 
-- 🔭 I have worked on many personal projects that involved mobile apps, 3D environment modeling, and coding!
+- 🔭 I have worked on many personal projects involving areas such as software/game/mobile/VR development and 3D modeling!
 - 🌱 I am currently coding a project in Python!
 - 🔍 I am hoping to learn more about creating my portfolio website!
 - 📚 My major is Interactive Multimedia, and I minored in CS and Music Technology.
