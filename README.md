@@ -8,7 +8,7 @@ My name is Amy, and...
 - 💻 I am currently coding a project in C#!
 - 📖 I am hoping to soon continue developing my portfolio website!
 - 💬 Ask me about anything related to 3D animation or games!
-- ⚡ Fun fact: I enjoy gardening, and I am hoping to restarting my garden soon!
+- ⚡ Fun fact: I enjoy gardening, and I am hoping to restart my garden soon!
 - 🔗 Relevant Links:
   - [Personal Website](https://vargasa9.myportfolio.com/home)
   - [LinkedIn](https://www.linkedin.com/in/vargas-amy)
