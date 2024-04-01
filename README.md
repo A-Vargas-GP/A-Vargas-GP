@@ -31,10 +31,13 @@ My name is Amy, and...
 <h3 align="center">Software</h3>
 <p align="center">
       <img src="https://skillicons.dev/icons?i=git" alt="github" width="45" height="55"/>
-      <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="visualstudiocode" width="45" height="55"/>
-      <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="figma" width="45" height="55"/>
       <img src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" alt="unity" width="45" height="55"/>
+      <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="visualstudiocode" width="45" height="55"/>
+      <img src="logos/maya-logo.png" alt="autodesk-maya" width="45" height="55"/>
+      <img src="logos/zbrush-logo.png" alt="zbrush" width="45" height="55"/>
+      <img src="logos/android-studio-logo.png" alt="android-studio" width="45" height="55"/>
       <img src="https://skillicons.dev/icons?i=wordpress,p5js" />
+      <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="figma" width="45" height="45"/>
 <h3 align="center">Adobe Programs</h3>
 <p align="center">
       <img src="https://skillicons.dev/icons?i=ai,ae,au,ps,xd" />
