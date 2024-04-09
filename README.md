@@ -4,7 +4,7 @@ Hi there!
 
 My name is Amy, and...
 - 🏦 I'm a graduate of TCNJ.
-- 📝 I have worked on many personal projects involving areas such as software/game/mobile/VR development and 3D modeling!
+- 📝 I have worked on many personal projects involving areas in software/game/mobile/VR development and 3D modeling!
 - 💻 I am currently coding a project in C#!
 - 📖 I am hoping to soon continue developing my portfolio website!
 - 💬 Ask me about anything related to 3D animation or games!
