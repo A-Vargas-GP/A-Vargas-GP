@@ -10,7 +10,7 @@ My name is Amy, and...
 - 💬 Ask me about anything related to 3D animation or games!
 - ⚡ Fun fact: I enjoy gardening, and I am hoping to restart my garden soon!
 - 🔗 Relevant Links:
-  - [Personal Website](https://vargasa9.myportfolio.com/home)
+  - [Personal Website](https://a-vargas-gp.github.io)
   - [LinkedIn](https://www.linkedin.com/in/vargas-amy)
   - [Artstation](https://www.artstation.com/vargas-amy_gp)
   - [Itch.io Profile](https://a-varg.itch.io)
