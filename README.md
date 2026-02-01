@@ -5,10 +5,10 @@ Hi there!
 My name is Amy, and...
 - 📚 I'm a graduate of TCNJ.
 - 📝 I have worked on many personal projects involving areas in software/game/mobile/VR development and 3D modeling!
-- 💻 I am currently coding a project in C#!
-- 📖 I am hoping to soon continue developing my portfolio website!
-- 💬 Ask me about anything related to 3D animation or games!
-- ⚡ Fun fact: I enjoy gardening, and I am hoping to restart my garden soon!
+- 💻 I recently updated my personal portfolio!
+- 📖 I am hoping to eventually finish my other coding project related to sourdough!
+- 💬 Ask me about anything related to games or baking!
+- ⚡ Fun fact: I enjoy gardening, and I am hoping to restart my garden in the spring!
 - 🔗 Relevant Links:
   - [Personal Website](https://a-vargas-gp.github.io)
   - [LinkedIn](https://www.linkedin.com/in/vargas-amy)
