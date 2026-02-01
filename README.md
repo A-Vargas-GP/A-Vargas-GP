@@ -3,7 +3,7 @@
 Hi there!
 
 My name is Amy, and...
-- 📚 I'm a graduate of TCNJ.
+- 📚 I am a Support Desk Technician, and I love learning anything new in technology!
 - 📝 I have worked on many personal projects involving areas in software/game/mobile/VR development and 3D modeling!
 - 💻 I recently updated my personal portfolio!
 - 📖 I am hoping to eventually finish my other coding project related to sourdough!
